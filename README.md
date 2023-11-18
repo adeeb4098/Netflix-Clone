@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/netflix-landing-page.git
+git clone https://github.com/adeeb4098/netflix-landing-page.git
 Open the project folder:
 
 bash
